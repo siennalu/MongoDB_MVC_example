@@ -49,4 +49,3 @@ module.exports = class User {
   .catch(err => res.json(err)));
 
  */
-select
